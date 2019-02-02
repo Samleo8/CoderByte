@@ -13,7 +13,7 @@ First Reverse [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brig
 
 Letter Changes [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Letter%20Changes:JavaScript)
 
-Simple Adding [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Simple%20Adding:JavaScript)
+Simple Adding [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Simple%20Adding:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Simple%20Adding:C)
 
 Letter Capitalize [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Letter%20Capitalize:JavaScript)
 
@@ -21,7 +21,7 @@ Letter Changes [![JavaScript](https://img.shields.io/badge/JavaScript-solved-bri
 
 Simple Symbols [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Simple%20Symbols:JavaScript)
 
-Check Nums [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Check%20Nums:JavaScript)
+Check Nums [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Check%20Nums:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Check%20Nums:C)
 
 Time Convert [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Time%20Convert:JavaScript)
 
