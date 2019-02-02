@@ -29,3 +29,5 @@ Alphabet Soup [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brig
 
 ## Hard
 Maximal Square [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Maximal%20Square:JavaScript)
+
+Pentagonal Number [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:JavaScript)
