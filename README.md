@@ -23,7 +23,7 @@ Simple Symbols [![JavaScript](https://img.shields.io/badge/JavaScript-solved-bri
 
 Check Nums [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Check%20Nums:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Check%20Nums:C)
 
-Time Convert [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Time%20Convert:JavaScript)
+Time Convert [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Time%20Convert:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Time%20Convert:C)
 
 Alphabet Soup [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Alphabet%20Soup:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Alphabet%20Soup:C)
 
