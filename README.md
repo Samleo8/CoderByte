@@ -1,6 +1,8 @@
 # CoderByte Solutions
 
 Repository of [CoderByte](https://www.coderbyte.com/) solutions for the free challenges.
+
+
 Completed in different programming languages (mainly JS, C and Python).
 
 
@@ -26,6 +28,9 @@ Check Nums [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightg
 Time Convert [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Time%20Convert:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Time%20Convert:C)
 
 Alphabet Soup [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Alphabet%20Soup:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Alphabet%20Soup:C)
+
+Question Marks [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Question%20Marks:JavaScript)
+
 
 ## Hard
 Maximal Square [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Maximal%20Square:JavaScript)

@@ -26,47 +26,19 @@ function QuestionsMarks(_str) {
         });
     }
 
+    var no10 = true;
     var r1,r2;
-    for(i=0;i<indexes.length-1;i++){
+    for(i=0;i<results.length-1;i++){
         r1 = results[i];
         r2 = results[i+1];
 
         if(r1.number+r2.number != 10) continue;
-        if(str.substring(r1.index,r2.index) != "???" ) return false;
+        no10 = false;
+        if(str.substring(r1.index+1,r2.index) != "???" ) return false;
     }
 
-    /*
-    //Regex for all numbers with triple question marks (???) between them
-    var _regQnMarks = new RegExp("([0-9]+)\\?\\?\\?([0-9]+)","gi");
-
-    //Check for numbers that add to 10
-    var i, no10 = true;
-    var matches = str.match(_regQnMarks);
-    if(matches == null) return false; //no match => no numbers that add to 10 which are within "???"
-
-    for(i=0;i<matches.length;i++){
-        var numbers = matches[i].split("???");
-        if( parseInt(numbers[0]) + parseInt(numbers[1]) == 10){
-            no10 = false;
-            break;
-        }
-    }
     if(no10) return false;
-
-    //Remove away all the numbers with "???" between them
-    str = str.replace(_regQnMarks,"");
-
-    //Now focus on the remaining numbers, if any.
-    var _regNumbers = new RegExp("([0-9]+)","gi");
-    matches = str.match(_regNumbers);
-
-    if(matches==null) return true; //no matches => no remaining numbers => all numbers that add to 10 are fine.
-
-    for(i=0;i<matches.length-1;i++){
-        if( parseInt(matches[i])+parseInt(matches[i+1]) == 10 ) return false;
-    }
-    */
-
+    
     return true;
 }
 
