@@ -68,9 +68,9 @@ function MaximalSquare(strArr) {
 }
 
 //For testing purposes
-//*
+/*
 readline = ()=>{
-	return
+	return ["0111", "1111", "1111", "1111"];
 }
 //*/
 
