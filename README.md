@@ -25,7 +25,7 @@ Check Nums [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightg
 
 Time Convert [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Time%20Convert:JavaScript)
 
-Alphabet Soup [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Alphabet%20Soup:JavaScript)
+Alphabet Soup [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Alphabet%20Soup:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Alphabet%20Soup:C)
 
 ## Hard
 Maximal Square [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Maximal%20Square:JavaScript)
