@@ -17,7 +17,7 @@ Letter Changes [![JavaScript](https://img.shields.io/badge/JavaScript-solved-bri
 
 Simple Adding [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Simple%20Adding:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Simple%20Adding:C)
 
-Letter Capitalize [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Letter%20Capitalize:JavaScript)
+Letter Capitalize [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Letter%20Capitalize:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Letter%20Capitalize:C)
 
 Letter Changes [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Letter%20Changes:JavaScript)
 
