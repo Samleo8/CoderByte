@@ -5,9 +5,9 @@ Completed in different programming languages (mainly JS, C and Python).
 
 
 ## Easy
-Longest Word [![https://www.coderbyte.com/results/Samleo:Longest%20Word:JavaScript](https://www.coderbyte.com/results/Samleo:Longest%20Word:JavaScript)](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)
+Longest Word [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Longest%20Word:JavaScript)
 
-First Factorial [![https://www.coderbyte.com/results/Samleo:First%20Factorial:JavaScript](https://www.coderbyte.com/results/Samleo:First%20Factorial:JavaScript)](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)
+First Factorial ![[https://www.coderbyte.com/results/Samleo:First%20Factorial:JavaScript](https://www.coderbyte.com/results/Samleo:First%20Factorial:JavaScript)](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)
 
 
 
