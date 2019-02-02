@@ -38,9 +38,11 @@ function QuestionsMarks(_str) {
     var _regNumbers = new RegExp("(\d+)","gi");
     matches = str.match(_regNumbers);
 
-    if(matches==null) return true;
+    if(matches==null) return true; //no matches => no remaining numbers => all numbers that add to 10 are fine.
 
-    return str;
+    
+
+    return true;
 }
 
 //For testing purposes
