@@ -15,7 +15,25 @@ function QuestionsMarks(_str) {
     str = str.replace(new RegExp("(\\?\\|)|(\\|\\?)","gi"),"?");
 
     //At this point, we have the numbers separated purely by '?'s and '|'s
+    var regNumbers = new RegExp("([0-9]+)","gi");
+    var i, result, results = [];
 
+    //Get all the indexes of the numbers in this string
+    while(result = regNumbers.exec(str)){
+        results.push({
+            "number": parseInt(result),
+            "index": result.index
+        });
+    }
+
+    var r1,r2;
+    for(i=0;i<indexes.length-1;i++){
+        r1 = results[i];
+        r2 = results[i+1];
+
+        if(r1.number+r2.number != 10) continue;
+        if(str.substring(r1.index,r2.index) != "???" ) return false;
+    }
 
     /*
     //Regex for all numbers with triple question marks (???) between them
