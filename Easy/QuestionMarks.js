@@ -8,14 +8,18 @@ For example: if str is "arrb6???4xxbl5???eee5" then your program should return t
 function QuestionsMarks(_str) {
     //Replace all groups of non-numberic and non-question marks characters with "|".
     //This is to separate out numbers which were previously separated by other characters
-    var str = _str.replace(new RegExp("([^\d\?\n])+","gi"),"|");
+    var str = _str.replace(new RegExp("([^0-9\\?]+)","gi"),"|");
 
     //Remove "|" characters which are next to question marks
     //This is so that later when we are finding for "???" we won't have problems
-    str = str.replace(new RegExp("(\?\|)|(\|\?)","gi"),"?");
+    str = str.replace(new RegExp("(\\?\\|)|(\\|\\?)","gi"),"?");
 
+    //At this point, we have the numbers separated purely by '?'s and '|'s
+
+
+    /*
     //Regex for all numbers with triple question marks (???) between them
-    var _regQnMarks = new RegExp("(\d+)\?\?\?(\d+)","gi");
+    var _regQnMarks = new RegExp("([0-9]+)\\?\\?\\?([0-9]+)","gi");
 
     //Check for numbers that add to 10
     var i, no10 = true;
@@ -23,7 +27,7 @@ function QuestionsMarks(_str) {
     if(matches == null) return false; //no match => no numbers that add to 10 which are within "???"
 
     for(i=0;i<matches.length;i++){
-        var numbers = match[i].split("???");
+        var numbers = matches[i].split("???");
         if( parseInt(numbers[0]) + parseInt(numbers[1]) == 10){
             no10 = false;
             break;
@@ -32,29 +36,29 @@ function QuestionsMarks(_str) {
     if(no10) return false;
 
     //Remove away all the numbers with "???" between them
-    str = str.replace(_r,"");
+    str = str.replace(_regQnMarks,"");
 
     //Now focus on the remaining numbers, if any.
-    var _regNumbers = new RegExp("(\d+)","gi");
+    var _regNumbers = new RegExp("([0-9]+)","gi");
     matches = str.match(_regNumbers);
 
     if(matches==null) return true; //no matches => no remaining numbers => all numbers that add to 10 are fine.
 
-    
+    for(i=0;i<matches.length-1;i++){
+        if( parseInt(matches[i])+parseInt(matches[i+1]) == 10 ) return false;
+    }
+    */
 
     return true;
 }
 
 //For testing purposes
-//*
-n=-1;
-testcases = ["acc?7??sss?3rr1??????5","aa6?9","arrb6???4xxbl5???eee5"];
+/*
+//n=-1;
+testcases = ["arrb6???4xxbl5???eee5","9???1???9??1???9","5??aaaaaaaaaaaaaaaaaaa?5?5"];
 readline = ()=>{
-    if(n>=testcases.length) n=-1;
-    n++;
-    return testcases[n];
+    return testcases[i];
 }
+for(i=0;i<testcases.length;i++)
 //*/
-
-// keep this function call here
 QuestionsMarks(readline());
