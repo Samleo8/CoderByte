@@ -4,7 +4,12 @@ QUESTION: Have the function SimpleSymbols(str) take the str parameter being pass
 #include <stdio.h>
 #include <string.h>
 
-short isLetter(char c){
+/*
+Take note that for some reason, C does NOT have boolean types.
+So we use unsigned char (with 0 and 1) instead.
+Unsigned char only has one byte.
+*/
+unsigned char isLetter(char c){
     //Lower case letter
     int n = c-'a';
     if(n>=0 && n<=26) return 1;
