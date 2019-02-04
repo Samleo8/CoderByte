@@ -18,6 +18,10 @@ unsigned char isLetter(char c){
     n = c-'A';
     if(n>=0 && n<=26) return 1;
 
+    //Number
+    n = c-'0';
+    if(n>=0 && n<=9) return 1;
+
     return 0;
 }
 
