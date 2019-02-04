@@ -3,7 +3,7 @@
 Repository of [CoderByte](https://www.coderbyte.com/) solutions for the free challenges.
 
 
-Completed in different programming languages (mainly JS, C and Python).
+Completed in different programming languages (mainly JS and C).
 
 
 ## Easy
@@ -36,4 +36,4 @@ Question Marks [![JavaScript](https://img.shields.io/badge/JavaScript-solved-bri
 ## Hard
 Maximal Square [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Maximal%20Square:JavaScript)
 
-Pentagonal Number [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:JavaScript)
+Pentagonal Number [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:C) [![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:Python) 
