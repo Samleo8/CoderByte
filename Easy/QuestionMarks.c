@@ -22,7 +22,8 @@ void QuestionMarks(char* str){
     unsigned char has10 = 0;
 
     for(i=0;i<strlen(str);i++){
-        char c = str[i]; //note that we can use c (single char) because no 2 numbers will add to 10 that are 2 digits, except 10+0
+        char c = str[i]; //note that we can use c (single char) because no 2 numbers will add to 10 that are 2 digits
+        //EXCEPT 10+0: Therefore, this solution is actually incomplete, and lacks a check for 10 + 0
         if(isNumber(c)){
             if(prevNum != -1){//previous number has a value
                 if(prevNum + (int)(c-'0') == 10){
@@ -33,10 +34,11 @@ void QuestionMarks(char* str){
                     }
                 }
             }
+            nQuestionMarks = 0; //reset question marks counter
             prevNum = c-'0'; //convert from char to int
         }
         else if(c=='?'){
-
+            nQuestionMarks++;
         }
     }
 

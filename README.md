@@ -30,10 +30,9 @@ Time Convert [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brigh
 
 Alphabet Soup [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Alphabet%20Soup:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Alphabet%20Soup:C)
 
-Question Marks [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Question%20Marks:JavaScript)
-
+Question Marks [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Question%20Marks:JavaScript) [![C](https://img.shields.io/badge/C-solved-green.svg)](https://www.coderbyte.com/results/Samleo:Question%20Marks:C)
 
 ## Hard
 Maximal Square [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Maximal%20Square:JavaScript)
 
-Pentagonal Number [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:C) [![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:Python) 
+Pentagonal Number [![JavaScript](https://img.shields.io/badge/JavaScript-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:JavaScript) [![C](https://img.shields.io/badge/C-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:C) [![Python](https://img.shields.io/badge/Python-solved-brightgreen.svg)](https://www.coderbyte.com/results/Samleo:Pentagonal%20Number:Python)
